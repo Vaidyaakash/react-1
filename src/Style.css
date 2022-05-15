@@ -1,7 +1,5 @@
 body{
-    background: linear-gradient(#4568dc , #b06ab3);
-    background-repeat: no-repeat;
-    height: 93.5vh;
+    background: linear-gradient(to right,#4568dc , #b06ab3);
     color: #fff;
     font-family: sans-serif;
 }
