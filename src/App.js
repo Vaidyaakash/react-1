@@ -5,8 +5,8 @@ import './Style.css';
 
 const Header = () =>{
 
-  const [show, setShow] = useState(true);
-  const [shows, setShows] = useState(true);
+  const [show, setShow] = useState(false);
+  const [shows, setShows] = useState(false);
 
   const Toggle = () => {
     setShow(!show);
