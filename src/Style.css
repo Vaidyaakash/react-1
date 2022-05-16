@@ -50,7 +50,7 @@ span{
     float: left;
     background-color: #1e429c;
     text-align: center;
-    width: 600px;
+    width: 38%;
     margin-left: 5%;
     border-radius: 10px;
     padding: 30px 15px;
@@ -60,7 +60,7 @@ span{
     float: right;
     background-color: #cc470e;
     text-align: center;
-    width: 600px;
+    width: 38%;
     border-radius: 10px;
     padding: 30px 15px;
     margin-right: 5%;
